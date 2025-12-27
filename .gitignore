@@ -1,0 +1,17 @@
+# virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# env variables
+.env
+
+# model cache
+.cache/
+models/
+
+# OS files
+.DS_Store
+
+# uploads
+uploads/
