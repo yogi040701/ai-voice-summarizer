@@ -1,17 +1,43 @@
-# virtual environment
+# --------------------
+# Python
+# --------------------
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.pytest_cache/
 
-# env variables
+# --------------------
+# Environment variables
+# --------------------
 .env
+.env.*
 
-# model cache
+# --------------------
+# Model / Cache files
+# --------------------
 .cache/
 models/
-
-# OS files
-.DS_Store
-
-# uploads
 uploads/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Docker
+# --------------------
+*.tar
+
+# --------------------
+# IDE / Editor
+# --------------------
+.vscode/
+.idea/
+
+# --------------------
+# OS
+# --------------------
+.DS_Store
