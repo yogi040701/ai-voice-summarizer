@@ -41,3 +41,6 @@ http://localhost:8000/docs
 
 ## 👨‍💻 Author
 Yogjeet Singh
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub and feel free to fork or contribute!
